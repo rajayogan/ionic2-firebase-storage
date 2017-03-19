@@ -7,11 +7,11 @@ import { LoginPage } from '../pages/login/login';
 import { AngularFireModule } from 'angularfire2';
 
 var config = {
-    apiKey: "AIzaSyCEUM0GD7N_d3SmolB6RBX96CxMhIO0d8E",
-    authDomain: "myapp-4eadd.firebaseapp.com",
-    databaseURL: "https://myapp-4eadd.firebaseio.com",
-    storageBucket: "myapp-4eadd.appspot.com",
-    messagingSenderId: "493016366518"
+    apiKey: "<yourapikey>",
+    authDomain: "<yourauthdomain>",
+    databaseURL: "<yourdburl>",
+    storageBucket: "<yourstorage>",
+    messagingSenderId: "<yoursenderid>"
   };
 
 @NgModule({
